@@ -1,0 +1,6 @@
+if SHIELD_SLIMKB
+
+config ZMK_KEYBOARD_NAME
+    default "slimkb"
+
+endif

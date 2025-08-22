@@ -1,0 +1,2 @@
+config SHIELD_SLIMKB
+    def_bool $(shields_list_contains, slimkb)
